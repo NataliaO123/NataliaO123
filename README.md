@@ -13,4 +13,4 @@
 
 ### Contacts:
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=00648B)](www.linkedin.com/in/natalia--osipova)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=00648B)](https://www.linkedin.com/in/natalia--osipova)
