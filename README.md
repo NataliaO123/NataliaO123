@@ -10,5 +10,3 @@
 ![JMeter](https://img.shields.io/badge/-jmeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=FF0000)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira)
-
-Follow me
