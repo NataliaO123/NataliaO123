@@ -2,7 +2,7 @@
 
 ### I am a mobile and web application tester, actively developing my skills in this field for the last 6 months. I am focused on ensuring the quality of the product, always looking for opportunities to improve it.
 
-### Tools
+### Tools:
 
 ![Sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![MariaDB](https://img.shields.io/badge/-mariadb-090909?style=for-the-badge&logo=mariadb&logoColor=47C5F8)
@@ -10,3 +10,7 @@
 ![JMeter](https://img.shields.io/badge/-jmeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=FF0000)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira)
+
+### Contacts:
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=00648B)](www.linkedin.com/in/natalia--osipova)
